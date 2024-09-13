@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://www.sunhome.ru/i/wallpapers/122/oboi-nebo-i-more.orig.jpg');
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    font-size: 3rem;
+    align-items: baseline;
+    
+}

@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+a{
+    font-size: 2rem;
+    color: black;
+}
+
+form{
+    font-size: 2rem;
+    color: black;
+}
+
+#submitButton{
+    font-size: 3rem;
+    border: red;
+
+}
+
+p{
+    font-size: 3rem;
+    align-items: baseline;
+    background: url('https://www.sunhome.ru/i/wallpapers/122/oboi-nebo-i-more.orig.jpg');
+    background-size: cover;  
+}
